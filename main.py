@@ -1,0 +1,4 @@
+import boot
+
+boot.start()
+
